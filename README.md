@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>👋 Hey there,</h1>
+  <h1> Hey there,</h1>
    <h1>I’m Josh</h1>
    <h2>Software Developer | Cybersecurity Specialist | UI/UX Designer </h2>
    <h2>Web Developer | Penetration Tester | Tech Enthuthiast</h2>
@@ -9,15 +9,15 @@
 Welcome to my GitHub! I'm a multi-talented Software Dev with a deep passion for building secure, elegant, and user-focused digital solutions. Whether it's crafting beautiful UIs, building scalable apps, or testing for vulnerabilities — I get it done.
 
 ---
-## 💼 What I Do
+##  What I Do
 <img align="right" height="150" src="https://platform.vox.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/18370644/hackers_white.gif?quality=90&strip=all&crop=21.875,0,56.25,100" />
 
-- 🛠️ **Full-Stack App Development** — From sleek mobile apps to responsive web platforms
-- 🔐 **Penetration Testing & Cybersecurity** — Offensive security, vulnerability analysis, ethical hacking
-- 🎨 **UI/UX Design** — Figma, Adobe XD, and code-based design implementations
-- 🌐 **Web Development** — Fast, responsive websites with modern JavaScript frameworks and solid backend logic
-- 📱 **Mobile Development** — Android (Java/Kotlin) & cross-platform Flutter apps
-- ⚙️ **Automation & Scripting** — Bash, Python, and tools to speed things up
+-  **Full-Stack App Development** — From sleek mobile apps to responsive web platforms
+-  **Penetration Testing & Cybersecurity** — Offensive security, vulnerability analysis, ethical hacking
+-  **UI/UX Design** — Figma, Adobe XD, and code-based design implementations
+-  **Web Development** — Fast, responsive websites with modern JavaScript frameworks and solid backend logic
+-  **Mobile Development** — Android (Java/Kotlin) & cross-platform Flutter apps
+-  **Automation & Scripting** — Bash, Python, and tools to speed things up
   
 
 ---
